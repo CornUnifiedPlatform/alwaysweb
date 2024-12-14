@@ -9,3 +9,4 @@ ProxyPassReverse "${NETWORK_PATH2}" "ws://services-${USER}.alwaysdata.net:8400${
 ProxyPreserveHost On
 EOF
 )
+echo -e "\e[32m$Advanced_Settings\e[0m"
