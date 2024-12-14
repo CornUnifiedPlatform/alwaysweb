@@ -1,5 +1,5 @@
-NETWORK_PATH1='admin'
-NETWORK_PATH2='index'
+NETWORK_PATH1='/admin'
+NETWORK_PATH2='/index'
 Advanced_Settings=$(cat <<-EOF
 ProxyRequests off
 ProxyPass "${NETWORK_PATH1}" "ws://services-${USER}.alwaysdata.net:8300${NETWORK_PATH1}"
