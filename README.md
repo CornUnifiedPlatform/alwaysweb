@@ -9,3 +9,8 @@ wget https://github.com/CornUnifiedPlatform/alwaysweb/raw/refs/heads/main/mikuta
 ```bash
 wget https://github.com/CornUnifiedPlatform/alwaysweb/raw/refs/heads/main/none.sh && chmod +x none.sh
 ```
+
+```bash
+wget https://github.com/CornUnifiedPlatform/alwaysweb/raw/refs/heads/main/php.sh && chmod +x php.sh
+```
+
