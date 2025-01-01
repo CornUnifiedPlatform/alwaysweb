@@ -14,3 +14,6 @@ wget https://github.com/CornUnifiedPlatform/alwaysweb/raw/refs/heads/main/none.s
 wget https://github.com/CornUnifiedPlatform/alwaysweb/raw/refs/heads/main/php.sh && chmod +x php.sh
 ```
 
+```bash
+wget https://github.com/CornUnifiedPlatform/alwaysweb/raw/refs/heads/main/web.sh && chmod +x web.sh
+```
